@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="gxzhou@10.23.13.188:22">
+    <serverData>
+      <paths name="gxzhou@10.23.13.188:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gxzhou/Personal/ShaomingHe/stargan_adience" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gxzhou@10.23.13.188:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@111.44.254.136:58069">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="smhe@10.23.11.30:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/smhe/stargan/stargan_adience" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="smhe@10.23.11.30:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/smhe/stargan/stargan_adience" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
